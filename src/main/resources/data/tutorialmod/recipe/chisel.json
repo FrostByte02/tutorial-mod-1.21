@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "#": {
+      "item": "tutorialmod:pink_garnet"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  #",
+    " s ",
+    "s  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:chisel"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "item.tutorialmod.pink_garnet": "Pink Garnet",
+  "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.cauliflower": "Cauliflower",
+  "item.tutorialmod.fire_infused_star": "Fire Infused Star",
+
+  "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
+  "block.tutorialmod.raw_pink_garnet_block": "Raw Block of Pink Garnet",
+  "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
+
+  "itemGroup.tutorialmod.tutorial_mod_items": "Tutorial Mod",
+
+  "tooltip.tutorialmod.magic_block.l1": "This enigmatic block resonates with the atomic weave of our dimension.",
+  "tooltip.tutorialmod.magic_block.l2": "It hides a tantalizing secret, yearning to be unlocked.",
+  "tooltip.tutorialmod.magic_block.l3": "Decipher its nature for a touch of alchemy.",
+  "tooltip.tutorialmod.magic_block.l4": "§8Mystery awaits the inquisitive!",
+
+  "tooltip.tutorialmod.chisel.shift_down.l1": "With a simple right-click, you can carve various types of stone into artistic bricks.",
+  "tooltip.tutorialmod.chisel.l1": "Press §e[SHIFT]§r to learn more!",
+  "tooltip.tutorialmod.cauliflower.l1": "A brain-shaped vegetable... But don't worry, zombies are not after this one!"
+}

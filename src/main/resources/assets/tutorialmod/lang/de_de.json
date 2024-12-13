@@ -1,0 +1,24 @@
+{
+  "item.tutorialmod.pink_garnet": "Rosa Granat",
+  "item.tutorialmod.raw_pink_garnet": "Roher Rosa Granat",
+  "item.tutorialmod.chisel": "Meißel",
+  "item.tutorialmod.cauliflower": "Blumenkohl",
+  "item.tutorialmod.fire_infused_star": "Feuerstern",
+
+  "block.tutorialmod.pink_garnet_block": "Rosa Granat Block",
+  "block.tutorialmod.raw_pink_garnet_block": "Roher Rosa Granat Block",
+  "block.tutorialmod.pink_garnet_ore": "Rosa Granat Erz",
+  "block.tutorialmod.pink_garnet_deepslate_ore": "Rosa Granat Tiefenschiefer Erz",
+  "block.tutorialmod.magic_block": "Magischer Block",
+
+  "itemGroup.tutorialmod.tutorial_mod_items": "Tutorial Mod",
+
+  "tooltip.tutorialmod.magic_block.l1": "Dieser rätselhafte Block harmoniert mit dem atomaren Gefüge unserer Dimension.",
+  "tooltip.tutorialmod.magic_block.l2": "Er verbirgt ein verlockendes Geheimnis, das darauf brennt, enthüllt zu werden.",
+  "tooltip.tutorialmod.magic_block.l3": "Entschlüsseln Sie seine Natur für einen Hauch von Alchemie.",
+  "tooltip.tutorialmod.magic_block.l4": "§8Ein Geheimnis erwartet die Neugierigen!",
+
+  "tooltip.tutorialmod.chisel.shift_down.l1": "Mit einem Rechtsklick kann man verschiedene Gesteinsarten in kunstvolle Ziegel meißeln.",
+  "tooltip.tutorialmod.chisel.l1": "Für weitere Information, drücke §e[SHIFT]§r!",
+  "tooltip.tutorialmod.cauliflower.l1": "Ein Gemüse in Form eines Gehirns... Aber keine Sorge, Zombies interessieren sich nicht dafür!"
+}
