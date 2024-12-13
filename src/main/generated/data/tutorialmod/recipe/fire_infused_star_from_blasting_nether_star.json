@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 25000,
+  "experience": 15000.0,
+  "group": "fire_infused_star",
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "tutorialmod:fire_infused_star"
+  }
+}

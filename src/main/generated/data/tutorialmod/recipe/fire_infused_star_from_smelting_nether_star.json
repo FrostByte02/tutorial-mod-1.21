@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 36000,
+  "experience": 20000.0,
+  "group": "fire_infused_star",
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "tutorialmod:fire_infused_star"
+  }
+}
